@@ -35,6 +35,6 @@ I am not into socials very much but I do have two accounts:
 
 <div align=center>
 
-![dino](https://gifdb.com/images/high/dragon-ball-goku-running-qwdfpsthu75o47dd.webp)
+![Goku](https://i.pinimg.com/originals/4c/f1/23/4cf123511f3874babb3b2ddee9448219.gif)
   
 </div>
