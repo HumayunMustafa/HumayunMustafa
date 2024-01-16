@@ -25,7 +25,7 @@ I am not into socials very much but I do have two accounts:
  <br>
  <br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunMustafa&count_private=true&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunMustafa&count_private=true&layout=compact&hide=html&token=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&theme=dracula"/>
  
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=HumayunMustafa&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
