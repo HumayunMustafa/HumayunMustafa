@@ -9,7 +9,7 @@
 I am Humayun, an **Engineer** and **Developer** from Pakistan. I like to interact with hardware from a software perspective as well as using electronic equipment 😃.
 I have an interest in artificial intelligence and open source. 
 
-**programming languages:** C, C++, Java, Python, HDL<br>
+**programming languages:** C, C++, C#, Python, HDL<br>
 **Tools:** VSCode, MatLab, ViM<br>
 **Skills:** Git, GitLab, Bash
 
