@@ -6,12 +6,8 @@
 > Once senior engineer said, "I asked my computer how to deal with stress. 
 > It printed a stack trace and said, 'Figure it out, I've got my own issues!' "
 
-I am Humayun, an **Engineer** and **Developer** from Pakistan. I like to interact with hardware from a software perspective as well as using electronic equipment 😃.
+I am Humayun, an **Engineer** and **Developer** from Pakistan. I like to interact with hardware from a software perspective as well as using electronic equipment.
 I have an interest in artificial intelligence and open source. 
-
-**programming languages:** C, C++, C#, Python, HDL<br>
-**Tools:** VSCode, MatLab, ViM<br>
-**Skills:** Git, GitLab, Bash
 
 ----
 
